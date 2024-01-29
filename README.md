@@ -1,4 +1,4 @@
-###Fully semantic segmentation for rectal cancer based on post-nCRT MRl modality and deep learning framework
+### Fully semantic segmentation for rectal cancer based on post-nCRT MRl modality and deep learning framework
 
 using steps:
 1. Use the post-nCRT slice.py in the Rectal folder for slicing post-nCRT MRl daaset. 
